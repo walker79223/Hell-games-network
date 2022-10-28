@@ -6,5 +6,6 @@ module.exports = {
     exitChannel: "1035078318007013408",
     ticketParent: "1035081206334767166",
     ticketLogChannel: "1035081316934369351",
-    verifyRole : "1035083040323555349"
+    verifyRole : "1035083040323555349",
+    unverifyRole: "1035612941971640411"
 }
